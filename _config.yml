@@ -2,7 +2,8 @@
 # Site settings
 title: Vulcain Trading
 description: Votre présence en Chine -- représentation, sourcing et conseil
-email: ivy.chang@vulcain-trading.com
+email: contact@vulcain-trading.com
+wechat: Chang_xiangxiang
 
 # Build settings
 theme: jekyll-theme-minimal
