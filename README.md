@@ -1,37 +1,29 @@
 ## Bienvenue sur le site de Vulcain Trading
 
-You can use the [editor on GitHub](https://github.com/wolfromm/wolfromm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Qui sommes-nous ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vulcain Trading a été fondé en 2016 par Ivy CHANG, responsable du sourcing d’une grande entreprise multinationale, après une expérience de plus 12 ans dans les achats, l’import et export et plus généralement dans l’implantation et l’adaptation de sociétés occidentales en Chine.
 
-### Markdown
+Nous travaillons en langue français, anglaise ou chinoise;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nous souhaitons mettre en place avec vous un partenariat de long terme pour assurer votre représentation en Chine, autant pour la sélection/gestion de fournisseurs (Chine et Asie du Sud-Est) que pour l’organisation de mission et l’interface avec les différentes autorités chinoises.
 
-```markdown
-Syntax highlighted code block
+### Que proposons-nous ?
 
-# Header 1
-## Header 2
-### Header 3
+**Une représentation opérationnelle**
 
-- Bulleted
-- List
+- Etre votre représentant en Chine et Asie du Sud-Est;
+- Assurer I’interface avec les différentes parties (administrations,…) ;
+- Organiser les missions de vos employés (visas, logement…).
 
-1. Numbered
-2. List
+**Une assistance Achats**
 
-**Bold** and _Italic_ and `Code` text
+- Qualifier les fournisseurs;
+- Assurer le contrôle de la qualité;
+- Organiser la logistique.
 
-[Link](url) and ![Image](src)
-```
+**Un service Conseil Marketing**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wolfromm/wolfromm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Réaliser des études de marchés ;
+- Analyser la concurrence locale ;
+- Repérer les opportunités/partenaire possibles.
