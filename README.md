@@ -18,7 +18,7 @@ Notre souhait est de mettre en place avec vous un partenariat de long terme pour
 
 **Une assistance Achats**
 
-- Qualifier les fournisseurs;
+- Qualifier les fournisseurs ([exemples de fournisseurs et produits qualifiés](catalogue));
 - Assurer le contrôle de la qualité;
 - Organiser la logistique.
 
