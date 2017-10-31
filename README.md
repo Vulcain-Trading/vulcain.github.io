@@ -12,7 +12,7 @@ Nous souhaitons mettre en place avec vous un partenariat de long terme pour assu
 
 **Une représentation opérationnelle**
 
-- Etre votre représentant en Chine et Asie du Sud-Est;
+- Être votre représentant en Chine et Asie du Sud-Est;
 - Assurer l’interface avec les différentes parties (administrations,…);
 - Organiser les missions de vos employés (visas, logement,…).
 
