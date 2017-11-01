@@ -10,7 +10,7 @@
 
 | ![](assets/img/alumina-brick-1.jpg) | ![](assets/img/alumina-brick-2.jpg) |
 
-#### Briques magnésie (MgO bricks)
+#### Briques magnésie (MgO bricks)
 
 | ![](assets/img/mgo-brick-1.jpg) | ![](assets/img/mgo-brick-2.jpg) |
 
@@ -36,9 +36,11 @@
 
 #### Creuset (Graphite crucible)
 
+| ![](assets/img/carbon-block-1.jpg) ||
+
 #### Blocs de carbone et graphite (Carbon and graphite blocks)
 
-| ![](assets/img/carbon-block-1.jpg) | ![](assets/img/carbon-block-2.jpg) |
+| ![](assets/img/carbon-block-2.jpg) ||
 
 ### Pièces de cuivre (Copper parts)
 
