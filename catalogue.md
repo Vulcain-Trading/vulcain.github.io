@@ -72,8 +72,8 @@
 
 ### Produits chimiques (Chemicals)
 
-**Sulfite d'ammonium (Ammonium sulfite), Nitrate d'ammonium (Ammonium nitrate), Bisulfite d'ammonium (Ammonium bisulfite), Dimolybdate d'ammonium (Ammonium dimolybdate), Carbonate de sodium (Soda ash), Bichromate de potassium (Potassium dichromate), Carbure de calcium (Calcium carbide)**
+Sulfite d'ammonium (Ammonium sulfite), Nitrate d'ammonium (Ammonium nitrate), Bisulfite d'ammonium (Ammonium bisulfite), Dimolybdate d'ammonium (Ammonium dimolybdate), Carbonate de sodium (Soda ash), Bichromate de potassium (Potassium dichromate), Carbure de calcium (Calcium carbide)
 
 ### Matières premières (Raw materials)
 
-**APT Ammonium paratungstate, YTO (Tungsten trioxide), Calcium tungstate from Catalyst processing (CaW de catalyseur Ferrotungsten), Ferrovanadium, Ferromolybdenum, FeSi75**
+APT Ammonium paratungstate, YTO (Tungsten trioxide), Calcium tungstate from Catalyst processing (CaW de catalyseur Ferrotungsten), Ferrovanadium, Ferromolybdenum, FeSi75
