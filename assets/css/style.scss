@@ -10,6 +10,6 @@ a:hover, a:focus { color: $vtcolor; }
 
 @media print, screen and (max-width: 960px) {
     img.logo { display: none; }
-    header p { color: $vtcolor; }
-    footer h4 { color: $vtcolor; }
+    header p { color: $vtcolor; font-weight: bold; }
+    // footer h4 { color: $vtcolor; }
 }
