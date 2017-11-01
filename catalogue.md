@@ -36,11 +36,11 @@
 
 #### Creuset (Graphite crucible)
 
-| ![](assets/img/carbon-block-1.jpg) ||
+| ![](assets/img/carbon-block-1.jpg) | ![](assets/img/blank.jpg) |
 
 #### Blocs de carbone et graphite (Carbon and graphite blocks)
 
-| ![](assets/img/carbon-block-2.jpg) ||
+| ![](assets/img/carbon-block-2.jpg) | ![](assets/img/blank.jpg) |
 
 ### Pièces de cuivre (Copper parts)
 
