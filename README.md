@@ -6,7 +6,7 @@ Vulcain Trading a été fondé par Ivy CHANG, responsable du sourcing d’une gr
 
 Vulcain Trading travaille en langue française, anglaise ou chinoise.
 
-Notre souhait est de mettre en place avec vous un partenariat de long terme pour assurer votre représentation en Chine, autant pour la sélection / gestion de fournisseurs que pour l’organisation de mission et l’interface avec les différentes autorités chinoises.
+Notre souhait est de mettre en place avec vous un partenariat de long terme pour assurer votre représentation en Chine, autant pour la sélection et la gestion de fournisseurs que pour l’organisation de mission et l’interface avec les différentes autorités chinoises.
 
 ### Que proposons-nous ?
 
@@ -18,7 +18,7 @@ Notre souhait est de mettre en place avec vous un partenariat de long terme pour
 
 **Une assistance Achats**
 
-- Qualifier les fournisseurs ([exemples](catalogue));
+- Qualifier les fournisseurs ([exemples de produits](catalogue));
 - Assurer le contrôle de la qualité;
 - Organiser la logistique.
 
