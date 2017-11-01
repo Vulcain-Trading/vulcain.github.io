@@ -4,7 +4,7 @@
 
 #### Casting channel / Canaux sources
 
-| photo 1 | photo 2 |
+| ![](casting-channel-1) | ![](casting-channel-2) |
 
 #### Alumina brick / Brique alumineux
 
