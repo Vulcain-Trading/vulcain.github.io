@@ -54,46 +54,26 @@
 
 ### Cylindre laminoir (Roller)
 
+| ![](assets/img/roller-1.jpg) | ![](assets/img/roller-2.jpg) |
+
 ### Emballage (Packing)
 
 #### Big bag
 
-### Forged parts / Pièces forgées
+| ![](assets/img/big-bag-1.jpg) | ![](assets/img/big-bag-2.jpg) |
 
-### Titanium parts / Pièces en titane
+### Pièces forgées (Forged parts), pièces en titane (Titanium parts), pièces mécano-soudées (Welding parts)
 
-### Welding parts / Pièces mécano-soudées
+### Produits chimiques (Chemicals)
 
-### Chemicals / Produits chimiques
-
-#### Ammonium sulfite / Sulfite d'ammonium
-
-#### Ammonium nitrate / Nitrate d'ammonium
-
-#### Ammonium bisulfite/ Bisulfite d'ammonium
-
-#### Ammonium dimolybdate / Dimolybdate d'ammonium
-
-#### Soda ash / Carbonate de sodium
-
-#### Potassium dichromate / Bichromate de potassium
-
-#### Calcium carbide / Carbure de calcium
+**Sulfite d'ammonium (Ammonium sulfite), Nitrate d'ammonium (Ammonium nitrate), Bisulfite d'ammonium (Ammonium bisulfite), Dimolybdate d'ammonium (Ammonium dimolybdate), Carbonate de sodium (Soda ash), Bichromate de potassium (Potassium dichromate), Carbure de calcium (Calcium carbide)**
 
 ### Equipements métallurgiques (Metallurgical equipment)
 
 #### Poche de coulée et transfert (Ladle)
 
+| ![](assets/img/ladle-1.jpg) | ![](assets/img/ladle-2.jpg) |
+
 ### Matières premières (Raw materials)
 
-#### APT Ammonium paratungstate
-
-#### YTO / Tungsten trioxide
-
-#### Calcium tungstate from Catalyst processing / CaW de catalyseur Ferrotungsten
-
-#### Ferrovanadium
-
-#### Ferromolybdenum
-
-#### FeSi75
+**APT Ammonium paratungstate, YTO (Tungsten trioxide), Calcium tungstate from Catalyst processing (CaW de catalyseur Ferrotungsten), Ferrovanadium, Ferromolybdenum, FeSi75**
