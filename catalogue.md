@@ -4,11 +4,15 @@
 
 #### Casting channel / Canaux sources
 
-| ![](casting-channel-1) | ![](casting-channel-2) |
+| ![](assets/img/casting-channel-1.jpg) | ![](assets/img/casting-channel-2.jpg) |
 
 #### Alumina brick / Brique alumineux
 
+| ![](assets/img/alumina-brick-1.jpg) | ![](assets/img/alumina-brick-2.jpg) |
+
 #### MgO brick / Brique magnésie
+
+| ![](assets/img/mgo-brick-1.jpg) | ![](assets/img/mgo-brick-2.jpg) |
 
 ### Casting part / Pièce de fonderie
 
