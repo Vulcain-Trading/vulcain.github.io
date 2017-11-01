@@ -12,7 +12,7 @@ Notre souhait est de mettre en place avec vous un partenariat de long terme pour
 
 **Une représentation opérationnelle**
 
-- Être votre représentant en Chine (et potentiellement Asie du Sud-Est);
+- Être votre représentant en Chine (et potentiellement en Asie du Sud-Est);
 - Assurer l’interface avec les différentes parties (administrations,…);
 - Organiser les missions de vos employés (visas, logement,…).
 
@@ -26,4 +26,4 @@ Notre souhait est de mettre en place avec vous un partenariat de long terme pour
 
 - Réaliser des études de marchés;
 - Analyser la concurrence locale;
-- Repérer les opportunités / partenaire possibles.
+- Repérer les opportunités / partenaires possibles.
