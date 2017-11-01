@@ -9,7 +9,7 @@ a { color: $vtcolor; }
 a:hover, a:focus { color: $vtcolor; }
 
 @media print, screen and (max-width: 960px) {
-    img.logo { visibility: hidden; }
+    img.logo { display: none; }
     header p { color: $vtcolor; }
     footer h4 { color: $vtcolor; }
 }
