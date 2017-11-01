@@ -1,22 +1,22 @@
 ## Catalogue
 
-### Refractory / Réfractaire
+### Réfractaires (Refractory)
 
-#### Casting channel / Canaux sources
+#### Canaux sources (Casting channel)
 
 | ![](assets/img/casting-channel-1.jpg) | ![](assets/img/casting-channel-2.jpg) |
 
-#### Alumina brick / Brique alumineux
+#### Briques alumineux (Alumina bricks)
 
 | ![](assets/img/alumina-brick-1.jpg) | ![](assets/img/alumina-brick-2.jpg) |
 
-#### MgO brick / Brique magnésie
+#### Briques magnésie (MgO bricks)
 
 | ![](assets/img/mgo-brick-1.jpg) | ![](assets/img/mgo-brick-2.jpg) |
 
 ### Casting part / Pièce de fonderie
 
-#### Ingot mould and plate / Lingotière et plaque
+#### Ingot mould and plate / Lingotière et plaque
 
 #### Slag pot / Cuvier et tundish
 
@@ -32,7 +32,7 @@
 
 ### Copper part / Pièce de cuivre
 
-#### Oxygen lance / Nez de lance à oxygène
+#### Oxygen lance / Nez de lance à oxygène
 
 #### Tuyere / Tuyère
 
@@ -42,11 +42,11 @@
 
 #### Big bag
 
-### Forged parts / Pièces forgées
+### Forged parts / Pièces forgées
 
 ### Titanium parts / Pièces en titane
 
-### Welding parts / Pièces mécano-soudées
+### Welding parts / Pièces mécano-soudées
 
 ### Chemicals / Produits chimiques
 
@@ -59,11 +59,11 @@ Potassium dichromate / Bichromate de potassium
 Calcium carbide / Carbure de calcium
 
 
-### Metallurgical equipment / Equipements métallurgiques
+### Metallurgical equipment / Equipements métallurgiques
 
-#### Ladle / Poche de coulée et transfert
+#### Ladle / Poche de coulée et transfert
 
-### Raw material / Matière première
+### Raw material / Matière première
 
 APT Ammonium paratungstate
 YTO / Tungsten trioxide
