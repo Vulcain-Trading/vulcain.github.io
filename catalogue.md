@@ -46,9 +46,11 @@
 
 #### Nez de lance à oxygène (Oxygen lance)
 
+| ![](assets/img/tuyere-1.jpg) | ![](assets/img/blank.jpg) |
+
 #### Tuyère (Tuyere)
 
-| ![](assets/img/tuyere-1.jpg) | ![](assets/img/tuyere-2.jpg) |
+| ![](assets/img/tuyere-2.jpg) | ![](assets/img/blank.jpg) |
 
 ### Cylindre laminoir (Roller)
 
