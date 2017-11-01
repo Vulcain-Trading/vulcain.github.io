@@ -56,6 +56,12 @@
 
 | ![](assets/img/roller-1.jpg) | ![](assets/img/roller-2.jpg) |
 
+### Equipements métallurgiques (Metallurgical equipment)
+
+#### Poche de coulée et transfert (Ladle)
+
+| ![](assets/img/ladle-1.jpg) | ![](assets/img/ladle-2.jpg) |
+
 ### Emballage (Packing)
 
 #### Big bag
@@ -67,12 +73,6 @@
 ### Produits chimiques (Chemicals)
 
 **Sulfite d'ammonium (Ammonium sulfite), Nitrate d'ammonium (Ammonium nitrate), Bisulfite d'ammonium (Ammonium bisulfite), Dimolybdate d'ammonium (Ammonium dimolybdate), Carbonate de sodium (Soda ash), Bichromate de potassium (Potassium dichromate), Carbure de calcium (Calcium carbide)**
-
-### Equipements métallurgiques (Metallurgical equipment)
-
-#### Poche de coulée et transfert (Ladle)
-
-| ![](assets/img/ladle-1.jpg) | ![](assets/img/ladle-2.jpg) |
 
 ### Matières premières (Raw materials)
 
