@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$vtcolor: #FF4600;
+
+a { color: $vtcolor; }
+a:hover, a:focus { color: $vtcolor; }
+
+img.logo {}
