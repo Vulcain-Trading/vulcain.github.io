@@ -14,43 +14,43 @@
 
 | ![](assets/img/mgo-brick-1.jpg) | ![](assets/img/mgo-brick-2.jpg) |
 
-### Casting part / Pièce de fonderie
+### Pièces de fonderie (Casting part)
 
-#### Ingot mould and plate / Lingotière et plaque
+#### Lingotière et plaque (Ingot mould and plate)
 
 | ![](assets/img/ingot-mould-1.jpg) | ![](assets/img/ingot-mould-2.jpg) |
 
-#### Slag pot / Cuvier et tundish
+#### Cuvier et tundish (Slag pot)
 
 | ![](assets/img/slag-pot-1.jpg) | ![](assets/img/slag-pot-2.jpg) |
 
-#### Furnace tray / Grille de four
+#### Grille de four (Furnace tray)
 
 | ![](assets/img/furnace-tray-1.jpg) | ![](assets/img/furnace-tray-2.jpg) |
 
-### Graphite and carbon product / Produit graphite et carbone
+### Produits graphite et carbone (Graphite and carbon products)
 
-#### Graphite electrode / Electrode graphite
+#### Electrode graphite (Graphite electrode)
 
 | ![](assets/img/graphite-electrode-1.jpg) | ![](assets/img/graphite-electrode-2.jpg) |
 
-#### Graphite crucible / Creuset
+#### Creuset (Graphite crucible)
 
-#### Carbon and graphite block / Bloc de carbone et graphite
+#### Blocs de carbone et graphite (Carbon and graphite blocks)
 
 | ![](assets/img/carbon-block-1.jpg) | ![](assets/img/carbon-block-2.jpg) |
 
-### Copper part / Pièce de cuivre
+### Pièces de cuivre (Copper parts)
 
-#### Oxygen lance / Nez de lance à oxygène
+#### Nez de lance à oxygène (Oxygen lance)
 
-#### Tuyere / Tuyère
+#### Tuyère (Tuyere)
 
 | ![](assets/img/tuyere-1.jpg) | ![](assets/img/tuyere-2.jpg) |
 
-### Roller / Cylindre laminoir
+### Cylindre laminoir (Roller)
 
-### Packing / Emballage
+### Emballage (Packing)
 
 #### Big bag
 
@@ -62,24 +62,34 @@
 
 ### Chemicals / Produits chimiques
 
-Ammonium sulfite / Sulfite d'ammonium
-Ammonium nitrate / Nitrate d'ammonium
-Ammonium bisulfite/ Bisulfite d'ammonium
-Ammonium dimolybdate / Dimolybdate d'ammonium
-Soda ash / Carbonate de sodium
-Potassium dichromate / Bichromate de potassium
-Calcium carbide / Carbure de calcium
+#### Ammonium sulfite / Sulfite d'ammonium
 
+#### Ammonium nitrate / Nitrate d'ammonium
 
-### Metallurgical equipment / Equipements métallurgiques
+#### Ammonium bisulfite/ Bisulfite d'ammonium
 
-#### Ladle / Poche de coulée et transfert
+#### Ammonium dimolybdate / Dimolybdate d'ammonium
 
-### Raw material / Matière première
+#### Soda ash / Carbonate de sodium
 
-APT Ammonium paratungstate
-YTO / Tungsten trioxide
-Calcium tungstate from Catalyst processing / CaW de catalyseur Ferrotungsten
-Ferrovanadium
-Ferromolybdenum
-FeSi75
+#### Potassium dichromate / Bichromate de potassium
+
+#### Calcium carbide / Carbure de calcium
+
+### Equipements métallurgiques (Metallurgical equipment)
+
+#### Poche de coulée et transfert (Ladle)
+
+### Matières premières (Raw materials)
+
+#### APT Ammonium paratungstate
+
+#### YTO / Tungsten trioxide
+
+#### Calcium tungstate from Catalyst processing / CaW de catalyseur Ferrotungsten
+
+#### Ferrovanadium
+
+#### Ferromolybdenum
+
+#### FeSi75
