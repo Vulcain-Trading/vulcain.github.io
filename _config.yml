@@ -6,6 +6,7 @@ email: ivy.chang@vulcain-trading.com
 # Build settings
 theme: jekyll-theme-minimal
 
+
 defaults:
   - scope:
       path: "assets/img"
