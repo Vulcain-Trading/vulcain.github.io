@@ -1,4 +1,4 @@
-# Welcome to the Vulcain Trading website
+# Welcome to the website of Vulcain Trading
 
 ## Who are we?
 
