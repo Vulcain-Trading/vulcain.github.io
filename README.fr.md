@@ -18,7 +18,7 @@ Notre souhait est de mettre en place avec vous un partenariat de long terme pour
 
 **Une assistance Achats**
 
-- Qualifier les fournisseurs ([exemples de produits qualifiés en métallurgie](catalogue));
+- Qualifier les fournisseurs ([exemples de produits qualifiés en métallurgie](catalogue.fr));
 - Assurer le contrôle de la qualité;
 - Organiser la logistique.
 
