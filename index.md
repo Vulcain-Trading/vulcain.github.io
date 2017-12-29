@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% include index.fr.md %}
+{% include index_fr.md %}
