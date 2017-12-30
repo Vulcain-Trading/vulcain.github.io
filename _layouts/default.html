@@ -17,7 +17,9 @@
       <header>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{% if site.lang == "fr" %} {{ site.description_fr }} {% else %} {{ site.description_en }} {% endif %}</p>
-        <p>(english | français)</p>
+        <p>
+          (<a href="{{ index_en }}" class="en">english</a> | <a href="{{ index_fr }}" class="fr">français</a>)
+        </p>
         <img class="logo" src="logo-danseuse.svg" alt="Danseuse Han">
       </header>
       <section>
