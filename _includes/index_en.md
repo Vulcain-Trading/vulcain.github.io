@@ -19,7 +19,7 @@ Our wish is to set up a long-term partnership with you to ensure your representa
 
 #### Purchasing Assistance
 
-- Qualify suppliers ([examples of qualified products in metallurgy](_includes/catalog_en));
+- Qualify suppliers ([examples of qualified products in metallurgy](catalog_en.html));
 - Ensure quality control;
 - Organize the logistics.
 
