@@ -1,3 +1,9 @@
+---
+layout: default
+ref: index
+lang: fr
+---
+
 ## Bienvenue sur le site de Vulcain Trading
 
 ### Qui sommes-nous ?
