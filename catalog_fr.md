@@ -1,3 +1,9 @@
+---
+layout: default
+ref: catalog
+lang: fr
+---
+
 ## Catalogue
 
 ### Réfractaires (Refractory)
