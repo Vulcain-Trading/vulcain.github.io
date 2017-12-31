@@ -1,8 +1,12 @@
 # Site settings
 title: Vulcain Trading
-description_fr: Votre présence en Chine — représentation, sourcing et conseil
-description_en: Your presence in China - representation, sourcing and consulting
+description:
+  fr: Votre présence en Chine — représentation, sourcing et conseil
+  en: Your presence in China - representation, sourcing and consulting
 email: ivy.chang@vulcain-trading.com
+index:
+  en: index_en.html
+  fr: index_fr.html
 
 # Build settings
 theme: jekyll-theme-minimal
