@@ -1,3 +1,8 @@
+---
+layout: default
+ref: index
+lang: en
+---
 
 ## Welcome to the website of Vulcain Trading
 
