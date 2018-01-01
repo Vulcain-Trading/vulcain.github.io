@@ -8,11 +8,14 @@ $vtcolor: #FF4600;
 a { color: $vtcolor; }
 a:hover, a:focus { 
     color: $vtcolor;
-    font-weight: normal;
+    font-weight: unset;
     text-decoration: underline;
 }
 .en:lang(en), .fr:lang(fr) {
     font-weight: bold;
+    &:hover {
+        text-decoration: none;
+    }
 }
 
 @media print, screen and (max-width: 960px) {
