@@ -2,7 +2,7 @@
   <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
   <p>{{ site.description[page.lang] }}</p>
   <p>
-    (<a href="{{ index_en }}" class="en">english</a> | <a href="{{ index_fr }}" class="fr">français</a>)
+    (<a href="{{ site.index["en"] }}" class="en">english</a> | <a href="{{ site.index["fr"] }}" class="fr">français</a>)
   </p>
   <img class="logo" src="logo-danseuse.svg" alt="Danseuse Han">
 </header>
