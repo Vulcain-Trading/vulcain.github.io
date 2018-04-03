@@ -4,8 +4,6 @@ ref: index
 lang: fr
 ---
 
-## Bienvenue sur le site de Vulcain Trading
-
 ### Qui sommes-nous ?
 
 Vulcain Trading a été fondé par Ivy CHANG, responsable du sourcing d’une grande entreprise multinationale. Elle a développé une expérience de plus de 12 ans dans les achats, l’import et export, et plus généralement dans l’implantation et l’adaptation de sociétés occidentales en Chine.
