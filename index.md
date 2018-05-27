@@ -6,7 +6,7 @@ lang: en
 
 ### Who are we?
 
-Vulcain Trading was founded by Ivy CHANG, sourcing manager of a large multinational company. She has over 12 years of experience in purchasing, importing and exporting, and more generally in setting up and adapting Western companies in China.
+Vulcain Trading was founded by Ivy CHANG, sourcing manager of a large multinational company. She has 15 years of experience in purchasing, importing and exporting, and more generally in setting up and adapting Western companies in China.
 
 Vulcain Trading works in French, English or Chinese.
 
